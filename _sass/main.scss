@@ -9,6 +9,15 @@ body {
   font-weight:400;
 }
 
+.timeline-comment {
+    background-color: #8A3F3F;
+}
+
+.comment-header {
+    background-color: #8A3F3F;
+}
+
+
 h1, h2, h3, h4, h5, h6 {
   color:#fff;
   margin:0 0 20px;
@@ -152,7 +161,7 @@ strong {
 }
 
 section {
-  width:720px;
+  width:700px;
   float:right;
   padding-bottom:50px;
   padding-top: 150px;
@@ -165,8 +174,8 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
-  height:1px;
+  background:#df2a2a;
+  height:3px;
   margin:0 0 20px;
 }
 

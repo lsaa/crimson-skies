@@ -44,3 +44,11 @@ You might also find some casettes hidden in the woods, who knows.
     </li>
   {% endfor %}
 </ul>
+
+<script src="https://utteranc.es/client.js"
+repo="lsaa/crimson-skies"
+issue-term="pathname"
+theme="photon-dark"
+crossorigin="anonymous"
+async>
+</script>
