@@ -4,6 +4,7 @@ ruby RUBY_VERSION
 # We'll need rake to build our site in TravisCI
 gem "rake", "~> 12"
 gem "jekyll"
+gem 'jekyll-theme-minimal', '~> 0.1.1'
 
 # Optional: Add any custom plugins here.
 # Some useful examples are listed below
