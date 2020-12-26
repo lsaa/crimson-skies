@@ -31,9 +31,9 @@ You might also find some cassettes hidden in the woods, who knows.
 
 ## Special Thanks to
 
-- Github Pages for having the website hosted.
-- The artists that contributed to the genre.
-- All the kitties of the world.
+- Github Pages for having the website hosted
+- The artists that contributed to the genre
+- All the kitties of the world
 
 ## Recent Posts
 
