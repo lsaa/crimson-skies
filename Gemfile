@@ -10,4 +10,6 @@ gem 'jekyll-theme-minimal', '~> 0.1.1'
 # Some useful examples are listed below
 group :jekyll_plugins do
   gem "jekyll-paginate-v2"
+  gem "kramdown-parser-gfm"
+  gem "kramdown"
 end
