@@ -8,6 +8,5 @@ gem "jekyll"
 # Optional: Add any custom plugins here.
 # Some useful examples are listed below
 group :jekyll_plugins do
-  gem "github-pages"
   gem "jekyll-paginate-v2"
 end
